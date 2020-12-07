@@ -1,5 +1,5 @@
 Link to live page:
-https://thinkful-ei-unicorn.github.io/Rhiannon-Smeby-bookmarks-app/
+https://thinkful-ei-unicorn.github.io/Rhiannon-Smeby-bookmarks-app/dist/
 
 User stories:
 I can add bookmarks to my bookmark list. 
